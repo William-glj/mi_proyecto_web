@@ -23,3 +23,4 @@ const saludo = "hola claude";
 
 sadsadasdsa
 
+![alt text](image-1.png)
